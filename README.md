@@ -1,4 +1,3 @@
-# CODSOFT
 # CODSOFT Internship Projects 🚀
 
 This repository contains 5 GUI-based Python projects developed as part of my internship at CodSoft.
